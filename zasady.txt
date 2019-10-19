@@ -1,0 +1,7 @@
+Kilka zasad, ¿eby æwiczenie mia³o sens:
+
+ka¿da osoba, która chce poæwiczyæ Gita musi:
+1. Upewniæ siê, czy jej wersja jest aktualna;
+2. Do naszego projektu w Intellij dodaæ polecenie obojêtnie jakiego zadania ze strony: https://codingbat.com/java oraz rozwi¹zanie(zadania mog¹ siê te¿ powtarzaæ, ale wa¿ne, ¿eby samemu myœleæ nad rozwi¹zaniem ;)) 
+3. Zarejestrowaæ zmianê.
+
