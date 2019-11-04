@@ -22,7 +22,7 @@ sum28([1, 2, 3, 4]) → false
         int[] nums3 = {1, 2, 3, 4};
         System.out.println(sum28(nums3));
     }
-    
+
 
     private static boolean sum28(int[] nums) {
         int sum=0;
